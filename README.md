@@ -7,7 +7,7 @@ Example:
 ```
 sudo apt install nim
 ```
-update the script
+update the script accordingly
 
 ![image](https://github.com/c0d3cr4f73r/nim-reverse-shell/assets/66146701/e9e8e972-9229-441e-8aba-39aea2448dc7)
 
