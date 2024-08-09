@@ -1,4 +1,4 @@
-# Created by c0d3cr4f73r
+# Created by n3rdyn3xus
 
 import net, os, osproc, strutils
 
